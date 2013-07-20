@@ -14,7 +14,7 @@ Le travail
 * `Bernard Stiegler : « Nous entrons dans l’ère du travail contributif » <http://www.rue89.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900>`_
 * `Ep.II Travail Versus Emploi, le temps de la déprolétarisation. <http://vimeo.com/40855651>`_ : Toute la série de vidéos est intéressante.
 * `Le coworking (wikipedia) <http://fr.wikipedia.org/wiki/Coworking>`_ : Qu’est ce qu’un espace de coworking ?
-
+* `Le futur du travail dans l’entreprise <http://www.internetactu.net/2013/07/18/le-futur-du-travail-dans-lentreprise-22-sans-lentreprise/>`-
 
 Éducation
 ---------
