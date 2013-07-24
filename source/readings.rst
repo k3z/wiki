@@ -13,6 +13,13 @@ Méthodes agiles, références, outils
 * `Scrum <http://fr.wikipedia.org/wiki/Scrum_%28m%C3%A9thode%29>`_ : gestion de projets (`Pivotal Tracker <https://www.pivotaltracker.com>`_ ).
 * `Récit utilisateur (user story) <http://fr.wikipedia.org/wiki/R%C3%A9cit_utilisateur>`_ : Qui? Quoi? Pourquoi?.
 
+
+Startup
+-------
+
+* `Post-mortem – naissance, vie et mort de ma startup — #fail <http://www.guilhembertholet.com/blog/2013/07/18/post-mortem-naissance-vie-et-mort-de-ma-startup-fail/>`_.
+
+
 PHP
 ---
 
