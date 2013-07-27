@@ -62,6 +62,15 @@ Statistiques, outils seo
 ------------------------
 
 * `Piwik <http://fr.piwik.org/>`_ : équivalent open source de Google Analytics.
+* `Google Analytics Evolution <http://gaevolution.appspot.com/>`_.
+* `Kibana<http://kibana.org/>`_ : Permet une analyse très fine des fichiers de logs.
+
+
+Travail collaboratif
+--------------------
+
+* `TowTruck <https://towtruck.mozillalabs.com/>`_ : Travail collaboratif au sein même du navigateur.
+
 
 
 Cartographie
