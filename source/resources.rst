@@ -50,6 +50,14 @@ Versioning
 
 * `A successful Git branching model <http://nvie.com/posts/a-successful-git-branching-model/>`_ : Un modèle de développement d’application avec git.
 
+
+Virtualisation
+--------------
+
+* `Installation du systeme de virtualisation LXC (Linux Containers) sur Debian Wheezy <http://www.pointroot.org/index.php/2013/05/12/installation-du-systeme-de-virtualisation-lxc-linux-containers-sur-debian-wheezy/>`_
+* `Script fabric pour automatiser le déploiement de containers LXC <https://github.com/harobed/vagrant-fabric-lxc>`_
+
+
 Statistiques, outils seo
 ------------------------
 
