@@ -28,6 +28,7 @@ HTML/UI
 * `Flexyboxes <http://the-echoplex.net/flexyboxes/>`_: permet de générer un code html compatible en tenant compte des différentes évolutions des specs.
 * `Chardin.js <https://github.com/heelhook/chardin.js>`_:permet de mettre un overlay pour expliquer les fonctionnalités d'une interface.
 * `Selectize.js <http://brianreavis.github.io/selectize.js/>`_: Permet d'ajouter élégamment des tags dans un champ input.
+* `URI.js <http://medialize.github.io/URI.js/>`_ : Permet d’obtenir tous les composants d’une uri.
 
 
 Hosting
