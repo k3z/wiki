@@ -44,6 +44,12 @@ HTML/CSS/Javascript
 * `Egghead.io - AngularJS <http://www.egghead.io/>`_ : Série de vidéos très pédagogiques et explicites pour présenter AngularJS (`Sur Youtube <http://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7>`_.).
 * `AngularJS and SEO <http://www.yearofmoo.com/2012/11/angularjs-and-seo.html>`_ : Créer automatiquement une version du site indexable par Google ou Bing.
 * `Ember.js and accessibility <http://words.steveklabnik.com/emberjs-and-accessibility>`_ : VoiceOver, Ember.js, and WAI-ARIA from Steve Klabnik
+* `The “Other” Interface: Atomic Design With Sass <http://coding.smashingmagazine.com/2013/08/02/other-interface-atomic-design-sass/>`_
+* `An Introduction To Object Oriented CSS (OOCSS) <http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/>`_
+* `MindBEMding – getting your head ’round BEM syntax <http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/>`_
+* `Nicole Sullivan Blog OOCSS evangelist <http://www.stubbornella.org/content/>`_
+
+
 
 GIT
 ---
