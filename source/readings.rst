@@ -48,6 +48,8 @@ HTML/CSS/Javascript
 * `An Introduction To Object Oriented CSS (OOCSS) <http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/>`_
 * `MindBEMding – getting your head ’round BEM syntax <http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/>`_
 * `Nicole Sullivan Blog OOCSS evangelist <http://www.stubbornella.org/content/>`_
+* `Using Hallo.js with AngularJS <http://www.grobmeier.de/using-hallo-js-with-angularjs-14072013.html#.UgDWirwx1s0>`_
+* `Recursive Menus with AngularJS Templates <http://www.grobmeier.de/recursive-menus-angularjs-templates-01082013.html#.UgDa_Lwx1s1>`_
 
 
 
