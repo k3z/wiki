@@ -31,6 +31,7 @@ HTML/UI
 * `URI.js <http://medialize.github.io/URI.js/>`_ : Permet d’obtenir tous les composants d’une uri.
 * `Ractive.js <http://www.ractivejs.org/>`_ : Moteur de template javascript intégrant du data binding.
 * `Hallo — distraction-free writing for the web <http://hallojs.org/>`_ : Compatible avec markdown.
+* `Conduite du changement, de l'artisanat à l'industrialisation <http://vimeo.com/69882988>`_
 
 
 Hosting
