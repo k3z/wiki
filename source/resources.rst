@@ -30,6 +30,8 @@ HTML/UI
 * `Selectize.js <http://brianreavis.github.io/selectize.js/>`_: Permet d'ajouter élégamment des tags dans un champ input.
 * `URI.js <http://medialize.github.io/URI.js/>`_ : Permet d’obtenir tous les composants d’une uri.
 * `Ractive.js <http://www.ractivejs.org/>`_ : Moteur de template javascript intégrant du data binding.
+* `Hallo — distraction-free writing for the web <http://hallojs.org/>`_ : Compatible avec markdown.
+
 
 Hosting
 -------
