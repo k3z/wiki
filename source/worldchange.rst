@@ -31,6 +31,11 @@ Le travail
 * `Blog de Frederic Lordon <http://blog.mondediplo.net/-La-pompe-a-phynance->`_ : Économiste.
 
 
+Écologie, biodiversité
+----------------------
+
+* `Claude Bourguignon - Proteger les sols pour préserver la biodiversité <https://www.youtube.com/watch?v=K7wbDr_P8NU>`_
+
 Histoire
 --------
 
