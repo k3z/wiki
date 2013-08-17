@@ -35,6 +35,7 @@ Python
 ------
 
 * `PyVideo <http://pyvideo.org/>`_ : Compilation des vidéos PyCon, DjangoCon.
+* `Fabric moi un cluster <http://www.eventuallycoding.com/index.php/fabric-moi-un-cluster/>`_ : Billet d’introduction à Fabric.
 
 
 HTML/CSS/Javascript
