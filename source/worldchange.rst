@@ -15,6 +15,7 @@ Le travail
 * `Ep.II Travail Versus Emploi, le temps de la déprolétarisation. <http://vimeo.com/40855651>`_ : Toute la série de vidéos est intéressante.
 * `Le coworking (wikipedia) <http://fr.wikipedia.org/wiki/Coworking>`_ : Qu’est ce qu’un espace de coworking ?
 * `Le futur du travail dans l’entreprise <http://www.internetactu.net/2013/07/18/le-futur-du-travail-dans-lentreprise-22-sans-lentreprise/>`_.
+* `La mort de l’économie et du travail <http://www.minorites.org/index.php/2-la-revue/1326-la-mort-de-leconomie-et-du-travail.html>`_
 
 Éducation
 ---------
@@ -35,6 +36,7 @@ Le travail
 ----------------------
 
 * `Claude Bourguignon - Proteger les sols pour préserver la biodiversité <https://www.youtube.com/watch?v=K7wbDr_P8NU>`_
+
 
 Histoire
 --------
