@@ -18,7 +18,7 @@ Startup
 -------
 
 * `Post-mortem – naissance, vie et mort de ma startup — #fail <http://www.guilhembertholet.com/blog/2013/07/18/post-mortem-naissance-vie-et-mort-de-ma-startup-fail/>`_.
-* `Why Is Lean Startup So Hard? <http://giffconstable.com/2012/08/why-is-lean-startup-so-hard/?utm_source=buffer&utm_campaign=Buffer&goback=.gde_4248915_member_273471644&utm_content=buffer5187d&utm_medium=twitter#!>`.
+* `Why Is Lean Startup So Hard? <http://giffconstable.com/2012/08/why-is-lean-startup-so-hard/?utm_source=buffer&utm_campaign=Buffer&goback=.gde_4248915_member_273471644&utm_content=buffer5187d&utm_medium=twitter#!>`_.
 
 
 PHP
