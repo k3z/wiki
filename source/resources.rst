@@ -1,11 +1,16 @@
 Ressources
 ==========
 
+Python
+---
+
+* `SQLAlchemy-Searchable <https://github.com/kvesteri/sqlalchemy-searchable>`_ : Class pour ajouter des fonctions de recherche plein texte.
+
+
 PHP
 ---
 
 * `Omnipay <https://github.com/adrianmacneil/omnipay>`_ : Class pour gérer de multiples solutions de paiement type Paypal.
-
 
 HTML/UI
 -------
