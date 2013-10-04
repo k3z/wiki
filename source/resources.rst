@@ -2,7 +2,7 @@ Ressources
 ==========
 
 Python
----
+------
 
 * `SQLAlchemy-Searchable <https://github.com/kvesteri/sqlalchemy-searchable>`_ : Class pour ajouter des fonctions de recherche plein texte.
 
