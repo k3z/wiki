@@ -109,3 +109,22 @@ Order by à partir des valeurs d’un champ
   select * from test
   order by field!='USD', field!='EUR', field!='BBD',
     field!='AUD', field!='CAD', field!='GBP', id asc;
+
+
+Gettext
+-------
+
+Obenir une liste de fichiers et les parser avec xgettext pour obtenir un fichier .pot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. code::
+
+   $ find . -iname "*.php" > /tmp/my_theme_file_list.txt
+ 
+   # new template
+   $ xgettext --from-code=utf-8 -d my_theme -f /tmp/my_theme_file_list.txt --keyword=__ -o languages/my_theme.pot
+ 
+   # update template
+   $ xgettext --from-code=utf-8 -d my_theme -j -f /tmp/my_theme_file_list.txt --keyword=__ -o languages/my_theme.pot
+
+
