@@ -116,6 +116,7 @@ Applications
 * `Typinator (mac) <http://www.ergonis.com/products/typinator/>`_ : Permet de disposer d'un système d'abbréviation/expansion "tab expand" dans toutes les applications.
 * `bash-completion <http://bash-completion.alioth.debian.org/>`_.
 * `Miro Video Converter  <http://www.mirovideoconverter.com/>`_ : convertisseur universel.
+* `GnuPGP suite <https://gpgtools.org>`_ : Pour encrypter et signer facilement mes mails.
 
 Pratique
 --------
