@@ -68,7 +68,7 @@ Système
 
 * `.bash_profile vs .bashrc <http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html>`_ : Permet de contourner l'exception de MacOS.
 * `Simplify Your Life With an SSH Config File <http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/>`_ : explique comment configurer des shell aliases.
-
+* `Configurer un serveur et un client openVPN <http://blog.nicolargo.com/2010/10/installation-dun-serveur-openvpn-sous-debianubuntu.html>`_
 
 Productivité
 ------------
