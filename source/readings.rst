@@ -12,6 +12,7 @@ Méthodes agiles, références, outils
 * `Kanban <http://fr.wikipedia.org/wiki/Kanban>`_ 
 * `Scrum <http://fr.wikipedia.org/wiki/Scrum_%28m%C3%A9thode%29>`_ : gestion de projets (`Pivotal Tracker <https://www.pivotaltracker.com>`_ ).
 * `Récit utilisateur (user story) <http://fr.wikipedia.org/wiki/R%C3%A9cit_utilisateur>`_ : Qui? Quoi? Pourquoi?.
+* `Conduite du changement, de l'artisanat à l'industrialisation <http://vimeo.com/69882988>`_
 
 
 Startup
