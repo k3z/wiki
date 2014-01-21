@@ -36,7 +36,7 @@ HTML/UI
 * `URI.js <http://medialize.github.io/URI.js/>`_ : Permet d’obtenir tous les composants d’une uri.
 * `Ractive.js <http://www.ractivejs.org/>`_ : Moteur de template javascript intégrant du data binding.
 * `Hallo — distraction-free writing for the web <http://hallojs.org/>`_ : Compatible avec markdown.
-* `Dillinger is a cloud-enabled HTML5 Markdown editor.<http://dillinger.io/#>`_.
+* `Dillinger is a cloud-enabled HTML5 Markdown editor <http://dillinger.io/#>`_.
 * `StackEdit - online markdown to HTML editor <https://stackedit.io/>`_.
 
 
