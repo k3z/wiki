@@ -1,6 +1,11 @@
 Le monde change (philosophes, politiques, technologies)
 =======================================================
 
+Optimisme
+---------
+
+* `Peter Diamantis: Abundance is our future <http://www.ted.com/talks/peter_diamandis_abundance_is_our_future>`_
+
 
 Démocratie
 ----------
