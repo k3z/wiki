@@ -70,6 +70,9 @@ Virtualisation
 --------------
 
 * `Vagrant <http://www.vagrantup.com/>`_ : Utilise `Virtualbox <https://www.virtualbox.org/>`_ en mode headless, totalement scriptable, idéal pour faire des tests en simulant l’intégralité d’un déploiement.
+* `Vagrant::Hostsupdater <https://github.com/cogitatio/vagrant-hostsupdater>`_
+* `Vagrant Host Manager <https://github.com/smdahlen/vagrant-hostmanager>`_
+* `Vagrant Sahara <https://github.com/jedi4ever/sahara>`_ : a plugin for vagrant that allows you manage a sandbox state
 * `Fabric <http://docs.fabfile.org/en/1.4.3/>`_ : Permet d'écrire des scripts de déploiement, compatible avec Vagrant.
 * `Fabtools <http://>`_ : Étend les possibilités de Fabric.
 * `Vagrant + fabric bootstrap <http://harobed.github.com/vagrant-fabric-bootstrap/>`_ : Excellent script pour commencer un projet.
