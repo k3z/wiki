@@ -1,6 +1,22 @@
 Outils que j'utilise
 ====================
 
+
+Python
+------
+
+* `Flask <http://flask.pocoo.org/>`_ : Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
+* `PythonZ <http://saghul.github.com/pythonz/>`_ : Permet de choisir la version de Python, utile pour utiliser une version différente du système.
+* `VirtualEnv <http://www.virtualenv.org/en/latest/>`_ : Permet d'encapsuler un projet et ses dépendances.
+* `Buildout <http://www.buildout.org/>`_ : Permet d'installer les dépendances d’un projet par l'intermédiaire de recettes dans le dossier de dév.
+* `SQLAlchemy <http://www.sqlalchemy.org/>`_ : ORM.
+* `Pyramid <http://www.pylonsproject.org/>`_ : Framework.
+* `Sphinx <http://sphinx-doc.org/>`_ (`Sphinx Readability Theme <http://sphinxtheme-readability.readthedocs.org/en/latest/>`_)
+* `Tacot <http://pythonhosted.org/tacot/fr/>`_ : Générateur de site statique, utilise la librairie de template `Mako <http://www.makotemplates.org/>`_.
+* `Restview <http://mg.pov.lt/restview/>`_: Permet de prévisualiser un document reStructuredText.
+* `webassets <https://github.com/miracle2k/webassets>`_: web assets management.
+
+
 PHP
 ---
 
@@ -14,19 +30,6 @@ PHP
 * `Twig <http://twig.sensiolabs.org/>`_ : Puissante librairie de templating.
 * `Swift Mailer <http://swiftmailer.org/>`_ : API complète pour envoyer des mails.
 * `Assetic <https://github.com/kriswallsmith/assetic>`_: web assets management.
-
-Python
-------
-
-* `PythonZ <http://saghul.github.com/pythonz/>`_ : Permet de choisir la version de Python, utile pour utiliser une version différente du système.
-* `VirtualEnv <http://www.virtualenv.org/en/latest/>`_ : Permet d'encapsuler un projet et ses dépendances.
-* `Buildout <http://www.buildout.org/>`_ : Permet d'installer les dépendances d’un projet par l'intermédiaire de recettes dans le dossier de dév.
-* `SQLAlchemy <http://www.sqlalchemy.org/>`_ : ORM.
-* `Pyramid <http://www.pylonsproject.org/>`_ : Framework.
-* `Sphinx <http://sphinx-doc.org/>`_ (`Sphinx Readability Theme <http://sphinxtheme-readability.readthedocs.org/en/latest/>`_)
-* `Tacot <http://pythonhosted.org/tacot/fr/>`_ : Générateur de site statique, utilise la librairie de template `Mako <http://www.makotemplates.org/>`_.
-* `Restview <http://mg.pov.lt/restview/>`_: Permet de prévisualiser un document reStructuredText.
-* `webassets <https://github.com/miracle2k/webassets>`_: web assets management.
 
 
 NodeJS
