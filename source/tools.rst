@@ -10,6 +10,7 @@ Python
 * `VirtualEnv <http://www.virtualenv.org/en/latest/>`_ : Permet d'encapsuler un projet et ses dépendances.
 * `Buildout <http://www.buildout.org/>`_ : Permet d'installer les dépendances d’un projet par l'intermédiaire de recettes dans le dossier de dév.
 * `SQLAlchemy <http://www.sqlalchemy.org/>`_ : ORM.
+* `Rethinkengine <https://github.com/bwind/rethinkengine>`_ : RethinkDB Object-Document Mapper written in Python.
 * `Pyramid <http://www.pylonsproject.org/>`_ : Framework.
 * `Sphinx <http://sphinx-doc.org/>`_ (`Sphinx Readability Theme <http://sphinxtheme-readability.readthedocs.org/en/latest/>`_)
 * `Tacot <http://pythonhosted.org/tacot/fr/>`_ : Générateur de site statique, utilise la librairie de template `Mako <http://www.makotemplates.org/>`_.
@@ -86,7 +87,6 @@ Database, search, indexer
 ---------------
 
 * `Rethinkdb <http://rethinkdb.com/>`_ : Enjoy an intuitive query language, automatically parallelized queries, and simple administration.
-* `Rethinkengine <https://github.com/bwind/rethinkengine>`_ : RethinkDB Object-Document Mapper written in Pytho
 * `Xapian <http://xapian.org/>`_ (`php bindings <http://trac.xapian.org/wiki/FAQ/PHP%20Bindings%20Package>`_).
 * `PHP Xapian Wrapper <http://www.contentwithstyle.co.uk/content/searching-with-xapian-and-php/>`_ : Nécessite les PHP Bindings.
 * `PHPCrawl webcrawler library/framework <http://phpcrawl.cuab.de/>`_: Permet d'aspirer le contenu d’un site, excellent pour nourrir Xapian.
