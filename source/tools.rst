@@ -82,9 +82,11 @@ Virtualisation
 * `Docker <https://github.com/dotcloud/docker>`_ : Basé sur LXC.
 
 
-Search, indexer
+Database, search, indexer
 ---------------
 
+* `Rethinkdb <http://rethinkdb.com/>`_ : Enjoy an intuitive query language, automatically parallelized queries, and simple administration.
+* `Rethinkengine <https://github.com/bwind/rethinkengine>`_ : RethinkDB Object-Document Mapper written in Pytho
 * `Xapian <http://xapian.org/>`_ (`php bindings <http://trac.xapian.org/wiki/FAQ/PHP%20Bindings%20Package>`_).
 * `PHP Xapian Wrapper <http://www.contentwithstyle.co.uk/content/searching-with-xapian-and-php/>`_ : Nécessite les PHP Bindings.
 * `PHPCrawl webcrawler library/framework <http://phpcrawl.cuab.de/>`_: Permet d'aspirer le contenu d’un site, excellent pour nourrir Xapian.
