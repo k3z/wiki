@@ -22,6 +22,13 @@ Startup
 * `Why Is Lean Startup So Hard? <http://giffconstable.com/2012/08/why-is-lean-startup-so-hard/?utm_source=buffer&utm_campaign=Buffer&goback=.gde_4248915_member_273471644&utm_content=buffer5187d&utm_medium=twitter#!>`_.
 
 
+Python
+------
+
+* `PyVideo <http://pyvideo.org/>`_ : Compilation des vidéos PyCon, DjangoCon.
+* `Fabric moi un cluster <http://www.eventuallycoding.com/index.php/fabric-moi-un-cluster/>`_ : Billet d’introduction à Fabric.
+
+
 PHP
 ---
 
@@ -31,13 +38,6 @@ PHP
 * `PSR2 <https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md>`_ : Coding style guide.
 * `Logging with PSR-3 to Improve Reusability <http://phpmaster.com/logging-with-psr-3-to-improve-reusability/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PHPMaster_feed+%28PHPMaster%29>`_.
 * `Pro Workflow in Laravel and Sublime Text <http://net.tutsplus.com/tutorials/tools-and-tips/pro-workflow-in-laravel-and-sublime-text/>`_.
-
-
-Python
-------
-
-* `PyVideo <http://pyvideo.org/>`_ : Compilation des vidéos PyCon, DjangoCon.
-* `Fabric moi un cluster <http://www.eventuallycoding.com/index.php/fabric-moi-un-cluster/>`_ : Billet d’introduction à Fabric.
 
 
 HTML/CSS/Javascript
